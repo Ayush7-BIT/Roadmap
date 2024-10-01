@@ -1,1 +1,2 @@
 Hey this is the roadmap for cloud technologies given by Btech commerce wallah!
+cloud fundamentals - SaaS, PaaS, IaaS
